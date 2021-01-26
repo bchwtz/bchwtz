@@ -1,5 +1,8 @@
 ### Data Science and Data Engineering
 
+![Alt text](./bchwtz-ghbanner.svg)
+<img src="./bchwtz-ghbanner.svg">
+
 <!--
 **bchwtz/bchwtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
